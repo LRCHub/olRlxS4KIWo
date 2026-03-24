@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "To Man Nai",
+  "base_artist": "Kvi Baba",
+  "createdAt": "2026-03-24T08:31:03.460758Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "To Man Nai",
+      "artist": "Kvi Baba",
+      "has_synced": false,
+      "path": "select/pl_01_To_Man_Nai_Kvi_Baba.txt"
+    }
+  ]
+}
